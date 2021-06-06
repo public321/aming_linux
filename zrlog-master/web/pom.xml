@@ -6,6 +6,7 @@
         <artifactId>zrlog</artifactId>
         <groupId>com.zrlog</groupId>
         <version>2.1.15-SNAPSHOT</version>
+        <packaging>war<packaging>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
